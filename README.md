@@ -30,3 +30,5 @@ The Logistic Regression model exhibited an accuracy of approximately 66.8%, slig
 
 ## Additional Points
 The insights from this project underscore the importance of model selection based on the nature of the data and the problem at hand. It has also shed light on the potential of exploring other models or ensemble methods to improve the prediction of negative ratings further.
+
+[46991808.md](https://github.com/richhann/Machine-Learning-Logistic-Regression-and-K-Nearest-Neighbors-KNN-/files/15441844/46991808.md)
